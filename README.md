@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I am a tech geek and building enthusiast**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
