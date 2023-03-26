@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, React**
 
-- 💬 Ask me about **Javascript and Architecture**
+- 💬 Ask me about **Javascript and Architecture(BSc)**
 
 - 📫 How to reach me **sinanilker@icloud.com**
 
