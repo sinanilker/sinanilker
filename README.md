@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinan Ilker</h1>
 <h3 align="center">A passionate frontend developer/architect from Istanbul</h3>
 
-- 🔭 I’m currently working on **an React project**
+- 🔭 I’m currently working on **a React project**
 
 - 🌱 I’m currently learning **JS, React**
 
